@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8a5322-08bd-4833-b072-0e0d3ebc2de1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config_learning_rate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coordinator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inverse_conv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/non_linearmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inverse_conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/inverse_conv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,7 +69,10 @@
         <entry file="file://$PROJECT_DIR$/inverse_conv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <element signature="e#23#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -311,7 +311,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -448,7 +447,10 @@
     <entry file="file://$PROJECT_DIR$/inverse_conv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#23#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
