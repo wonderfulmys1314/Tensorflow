@@ -1,2 +1,2 @@
-model_checkpoint_path: "rnnwordtest.ckpt-3999"
-all_model_checkpoint_paths: "rnnwordtest.ckpt-3999"
+model_checkpoint_path: "rnnwordtest.ckpt-10000"
+all_model_checkpoint_paths: "rnnwordtest.ckpt-10000"
